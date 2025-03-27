@@ -1,4 +1,4 @@
-# Understanding RNNs and Hidden States  
+# Understanding the role of hidden states in RNNs 
 **Author**: Hammad Ahmad  
 **Module**: Machine Learning and Neural Networks
 **Date**: 27/03/2025  
