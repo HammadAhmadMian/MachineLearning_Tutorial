@@ -1,0 +1,62 @@
+# Understanding RNNs and Hidden States  
+**Author**: Hammad Ahmad  
+**Module**: Machine Learning and Neural Networks
+**Date**: 27/03/2025  
+
+---
+
+## Description  
+This tutorial explains **Recurrent Neural Networks (RNNs)** with a focus on the **role and working of hidden states in RNNs**.  
+- Covers the fundamentals of RNN architecture, forward propagation, and backpropagation through time (BPTT).  
+- Breaks down how hidden states retain sequential information and enable temporal dependencies.  
+- Includes visualizations, equations, and code examples (Python) for hands-on learning.  
+
+**Target Audience**: Students or beginners familiar with basic neural networks.  
+
+**Tools/Software**:  
+- Python 3.x  
+- NumPy, Matplotlib  
+- Deep learning frameworks (e.g., PyTorch/TensorFlow)  
+- Google Colab
+---
+
+## Prerequisites  
+Before using this tutorial, ensure you:  
+1. Understand basic neural networks (e.g., feedforward networks, activation functions).  
+2. Have introductory Python programming experience.  
+3. Are familiar with matrix operations (for understanding hidden state equations).  
+
+---
+
+## How to Use This Tutorial  
+1. **Download the PDF**: Open it with a PDF reader (e.g., Adobe Acrobat).  
+2. **Navigation**:  
+   - Use the **clickable table of contents** (page X) to jump to sections like "Examples" or "Role of Hidden States".  
+3. **Code Examples**:  
+   - Code snippets demonstrate hidden state changes.   
+4. **Figures & Equations**:  
+   - Diagrams illustrate hidden state flow across time steps.  
+   - Equations use LaTeX notation (e.g., \( h_t = f(Wx_t + Uh_{t-1} + b) \)).  
+
+---
+
+## Troubleshooting  
+- **Code not working?** Check library versions (e.g., TensorFlow 2.x vs 1.x).  
+- **Confused by hidden state equations?** Review the "RNN Basics" section or prerequisite linear algebra.  
+- **PDF rendering issues?** Ensure your reader supports embedded equations/diagrams.  
+
+---
+
+## License  
+This tutorial is licensed under **[Creative Commons Attribution 4.0 (CC BY 4.0)](2025 Hammad Ahmad)**.  
+You may reuse, modify, and redistribute it with proper attribution.  
+
+---
+
+## Accessability Features
+
+- It is ensured that a suitable color scheme is used which is friendly for color blinded people
+- It is also made sure that plots and figures are clearly visible.
+
+## Feedback  
+Provide feedback in the google form link included in the tutorial.  
